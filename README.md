@@ -29,34 +29,12 @@
 
 ---
 
-## 字符覆盖
-
-NyanBlockFont 包含约 **9793 个字形（Glyph）**，支持多种 Unicode 字符区块。
-
-主要覆盖：
-
-| Unicode 区块                      | 覆盖情况         |
-| ------------------------------- | ------------ |
-| Basic Latin                     | 95 / 128     |
-| Latin-1 Supplement              | 78 / 128     |
-| Latin Extended                  | 部分支持         |
-| Hiragana                        | 86 / 96      |
-| Katakana                        | 92 / 96      |
-| Bopomofo（注音符号）                  | 43 / 48      |
-| CJK Unified Ideographs（中日韩统一汉字） | 9076 / 20992 |
-| CJK Symbols and Punctuation     | 支持           |
-| Halfwidth and Fullwidth Forms   | 支持           |
-| CJK Extension C                 | 少量支持         |
-
-字体主要面向中文、日文使用场景，同时包含基础拉丁字符和常用符号。
-
----
 
 ## 设计特点
 
-* 方块化视觉风格
-* 简洁的字形结构
-* 适合低分辨率显示
+* 直线视觉风格
+* 简洁的字形结构、
+* 线条比较细
 * 支持中日韩混排
 * 保留文字识别度
 * 注重可爱与现代感的结合
