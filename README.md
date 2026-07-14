@@ -1,6 +1,6 @@
 # NyanBlockFont（喵块体）
 
-![NyanBlockFont Logo](logo.png)
+本人字体设计不是特别好，如有建议可以提出
 
 ## 简介
 
